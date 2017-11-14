@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <array name="sources">
+        <item>bbc-news</item>
+        <item>financial-times</item>
+        <item>google-news</item>
+        <item>reuters</item>
+        <item>the-wall-street-journal</item>
+    </array>
+</resources>
